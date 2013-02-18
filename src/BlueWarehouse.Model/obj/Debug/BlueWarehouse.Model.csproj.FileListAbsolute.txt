@@ -1,0 +1,5 @@
+C:\Users\acr\Documents\GitHub\BlueWarehouse\src\BlueWarehouse.Model\bin\Debug\BlueWarehouse.Model.dll
+C:\Users\acr\Documents\GitHub\BlueWarehouse\src\BlueWarehouse.Model\bin\Debug\BlueWarehouse.Model.pdb
+C:\Users\acr\Documents\GitHub\BlueWarehouse\src\BlueWarehouse.Model\obj\Debug\BlueWarehouse.Model.csprojResolveAssemblyReference.cache
+C:\Users\acr\Documents\GitHub\BlueWarehouse\src\BlueWarehouse.Model\obj\Debug\BlueWarehouse.Model.dll
+C:\Users\acr\Documents\GitHub\BlueWarehouse\src\BlueWarehouse.Model\obj\Debug\BlueWarehouse.Model.pdb

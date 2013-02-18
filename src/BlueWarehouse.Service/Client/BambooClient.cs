@@ -4,6 +4,7 @@ using System.Net;
 using BlueWarehouse.Model;
 using BlueWarehouse.Model.Error;
 using BlueWarehouse.Service.Client;
+using System.Configuration;
 
 namespace BlueWarehouse.Service.Bamboo
 {
@@ -79,7 +80,7 @@ namespace BlueWarehouse.Service.Bamboo
         {
             if (credentials.AuthenticationType == AuthenticationType.Cookie)
             {
-                const string authURL = "https://bamboonet.mogul.se/?os_username={0}&os_password={1}";
+                string authURL = string.Format("{0}?os_username={0}&os_password={1}", ConfigurationManager.AppSettings["BambooAuthUrl"].ToString());
 
                 var authRequest =
                     (HttpWebRequest)

@@ -1,0 +1,8 @@
+C:\Users\acr\Documents\GitHub\BlueWarehouse\src\BlueWarehouse.Service\bin\Debug\BlueWarehouse.Service.dll
+C:\Users\acr\Documents\GitHub\BlueWarehouse\src\BlueWarehouse.Service\bin\Debug\BlueWarehouse.Service.pdb
+C:\Users\acr\Documents\GitHub\BlueWarehouse\src\BlueWarehouse.Service\bin\Debug\BlueWarehouse.Model.dll
+C:\Users\acr\Documents\GitHub\BlueWarehouse\src\BlueWarehouse.Service\bin\Debug\Ionic.Zip.dll
+C:\Users\acr\Documents\GitHub\BlueWarehouse\src\BlueWarehouse.Service\bin\Debug\BlueWarehouse.Model.pdb
+C:\Users\acr\Documents\GitHub\BlueWarehouse\src\BlueWarehouse.Service\obj\Debug\BlueWarehouse.Service.csprojResolveAssemblyReference.cache
+C:\Users\acr\Documents\GitHub\BlueWarehouse\src\BlueWarehouse.Service\obj\Debug\BlueWarehouse.Service.dll
+C:\Users\acr\Documents\GitHub\BlueWarehouse\src\BlueWarehouse.Service\obj\Debug\BlueWarehouse.Service.pdb
